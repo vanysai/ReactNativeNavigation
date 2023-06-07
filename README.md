@@ -1,23 +1,10 @@
 # ReactNativeNavigation
-Um pequeno tutorial para utilizar as navegações
 
-O que você precisará:
-Um terminal de código da sua preferencia
+Foi criado 4 projetos ao decorrer da aula.
 
+Utilizei os comandos:
 
-Comandos:
-Abrir o seu terminal
-
-Pegue o link escolhido = git clone linkescolhido
-
-cd nomedoprojetoescolhido
-
-Escolha qual a navegação que deseja, e coloque os seguintes comandos:
-
-npm install
-
-npx expo start
-
-Escolha a opção web (w)
-
-
+cd nomedapasta
+git clone nomedorepositorio
+npx expo start, depois o w (web)
+cd .. (para ir a pasta principal, navegation)
